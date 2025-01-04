@@ -1,7 +1,6 @@
 # Updated-Typing-Speed-Calculator-using-Python
 This is updated version of Python Typing speed calculator, the  original version was functional but lacked some advanced features which are added in this to enhance the user experience. 
 As part of my CodeClause Internship, I had made typing speed calculator using python and this is the upgraded version of my Typing Speed Test Application built with Python and Tkinter.
-The original version was functional but lacked some advanced features to enhance the user experience which are added in this version.
 
 💡 What’s New?
 
